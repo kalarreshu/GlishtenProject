@@ -1,0 +1,29 @@
+.Nav{
+    background-color: rgb(184, 60, 184);
+    height: 100px;
+   
+
+}
+.maindiv{
+    display: flex;
+    margin-left: 10px;
+}
+.li{
+    margin-left: 80px;
+    text-decoration: none;
+    color: black;
+}
+.links{
+padding: 20px;
+margin-left: 550px;
+margin-top: 10px;
+font-size: 24px;
+font-weight: 500;
+color: black;
+}
+h2{
+    margin-left: 20px;
+}
+
+
+
