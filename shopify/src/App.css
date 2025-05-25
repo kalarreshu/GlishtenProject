@@ -37,6 +37,14 @@
   padding: 2em;
 }
 
+ .nav-item .active {
+
+  color : green;
+}
+.btn{
+  background-color: green;
+  color : green;
+}
 .read-the-docs {
   color: #888;
 }
